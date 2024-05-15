@@ -41,7 +41,7 @@ Ensure you have the following installed:
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/powerbi-product-data-analysis.git
+git clone https://github.com/srujanra/Power-BI-Dashboard-for-Product-Data-Analysis.git
 cd powerbi-product-data-analysis
 ```
 
