@@ -65,10 +65,6 @@ cd powerbi-product-data-analysis
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Thanks to the Power BI community for the tools and resources that made this project possible.
